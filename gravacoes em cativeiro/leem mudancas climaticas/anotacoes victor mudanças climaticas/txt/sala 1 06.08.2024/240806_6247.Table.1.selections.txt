@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)
+1	Waveform 1	1	38.87875422	39.21763638	0	14560.7
+1	Spectrogram 1	1	38.87875422	39.21763638	0	14560.7
+2	Waveform 1	1	104.0517933	104.3211036	0	8736.4
+2	Spectrogram 1	1	104.0517933	104.3211036	0	8736.4
+3	Waveform 1	1	104.8754341	105.1088363	0	8736.4
+3	Spectrogram 1	1	104.8754341	105.1088363	0	8736.4
